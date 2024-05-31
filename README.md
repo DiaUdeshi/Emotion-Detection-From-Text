@@ -1,5 +1,5 @@
 # Emotion-Detection-From-Text
-This repository contains Python scripts for performing emotion detection using text data. Emotion detection is a natural language processing (NLP) task that involves identifying and categorizing emotions expressed in textual data.
+This repository contains Python scripts for performing emotion detection using text data. Emotion detection is a natural language processing (NLP) task that involves identifying and categorizing emotions expressed in textual data. The pic.png file contains the accuracy score for multiple techniques.
 
 ## Dataset
 The dataset used for emotion detection consists of three CSV files:
